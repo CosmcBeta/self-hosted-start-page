@@ -1,0 +1,24 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.env
+venv/
+ENV/
+env/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Docker artifacts
+*.db
+*.sqlite3
+*.log
+*.pid
+*.sock
+
+# OS
+.DS_Store
